@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>DevOpps Ed. Bris</title>
+</head>
 <body>
 <h2>Hello! My name is Valeria Dimas</h2>
 <h2>Carlos Lopez</2>
