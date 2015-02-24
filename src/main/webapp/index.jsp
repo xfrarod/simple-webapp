@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>DevOpps</title>
+<title>DevOpps Ed. Bris</title>
 </head>
 <body>
 <h3>Omar was here!</h3>
