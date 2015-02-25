@@ -3,6 +3,7 @@
 <title>DevOpps Ed. Bris</title>
 </head>
 <body>
+<h1>Today is a good day!</h1>
 <h2>Hello! My name is Valeria Dimas</h2>
 <h2>Carlos Lopez</2>
 <h3>Omar was here!</h3>
