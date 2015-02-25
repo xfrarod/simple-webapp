@@ -3,6 +3,7 @@
 <title>DevOpps Ed. Bris</title>
 </head>
 <body>
+Now every 10mins -OGARCIA
 <h3>Omar was here! 17:17</h3>
 <h3>gerson  was here! 17:20</h3>
 <h1>Today is a good day!</h1>
